@@ -1,0 +1,9 @@
+# Group 1
+User-agent: Googlebot
+Disallow: /img/
+
+# Group 2
+User-agent: *
+Allow: /
+
+Sitemap: https://consultrjtech.tk/sitemap.xml
